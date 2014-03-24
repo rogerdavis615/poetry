@@ -1,0 +1,11 @@
+junk*.txt
+build/
+.gradle/
+.settings/
+.classpath
+.project
+*.ipr
+*.imj
+bin/
+out/
+
