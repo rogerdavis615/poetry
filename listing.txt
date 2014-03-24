@@ -1,0 +1,26 @@
+total 1002064
+drwxr-xr-x   2 tlberglund  staff         68 Feb 14 06:55 Applications
+drwxr-xr-x@  8 tlberglund  staff        272 Mar 11 23:44 Box Documents
+drwx------+  8 tlberglund  staff        272 Mar 22 16:35 Desktop
+drwx------+ 53 tlberglund  staff       1802 Feb 24 19:25 Documents
+drwx------+ 38 tlberglund  staff       1292 Mar 22 10:33 Downloads
+drwx------@ 37 tlberglund  staff       1258 Mar 17 11:01 Dropbox
+drwx------@ 65 tlberglund  staff       2210 Feb 21 11:49 Library
+drwx------+ 31 tlberglund  staff       1054 Jan 18 17:29 Movies
+drwx------+  9 tlberglund  staff        306 Sep 26  2012 Music
+drwx------  53 tlberglund  staff       1802 Jul 26  2012 Old Personal Documents
+drwx------+ 55 tlberglund  staff       1870 Mar 15 16:35 Pictures
+drwxr-xr-x+  5 tlberglund  staff        170 Jul 25  2012 Public
+drwxr-xr-x  70 tlberglund  staff       2380 Jan  1 21:11 Purchased Software
+drwxr-xr-x+  3 tlberglund  staff        102 Mar 17  2013 Sites
+drwxr-xr-x  57 tlberglund  staff       1938 Jan 25 20:13 code
+-rw-r--r--@  2 tlberglund  staff  513056256 Mar 23 20:35 disk.dmg
+drwxr-xr-x   4 tlberglund  staff        136 Jan 25 20:09 eclipse-workspace
+drwxr-xr-x   4 tlberglund  staff        136 Mar 11 11:53 git
+drwxr-xr-x  54 tlberglund  staff       1836 Feb 12 15:48 github
+drwxr-xr-x   4 tlberglund  staff        136 Mar 24 09:26 scratch
+drwxr-xr-x  22 tlberglund  staff        748 Mar 21 18:09 scripts
+drwxr-xr-x   2 tlberglund  staff         68 Aug 10  2013 src
+drwxr-xr-x  28 tlberglund  staff        952 Feb 24 07:34 timberglund.com
+drwxr-xr-x  16 tlberglund  staff        544 Jul 26  2012 workshops
+drwxr-xr-x  32 tlberglund  staff       1088 Jun 23  2013 zachberglund.com
